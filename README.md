@@ -14,10 +14,11 @@
 
 ### 🚀 Featured Projects
 
-**[Water Potability Predictor](https://github.com/ronitbatra7127/REPO-NAME)**
-Machine learning project that predicts whether a water sample is safe to drink, using the water potability dataset. Covers data cleaning, exploration, and model building in Jupyter.
+**[Super Market analysis](https://github.com/ronitbatra7127/Inventory-Management)**
+Machine learning project that predicts the upcoming orders in the next 10 days along with the inventory requirement of the store and also a store and customer profile bifurcation for ordering by customers and inventory management for the store
 
-**[IPL Ball-by-Ball Dataset](https://github.com/ronitbatra7127/REPO-NAME)**
+
+**[IPL Ball-by-Ball Dataset](https://github.com/ronitbatra7127/IPL-prediction)**
 A ball-by-ball dataset of IPL matches from 2008 to 2026, built from Cricsheet data with a Python script.
 
 ### 📊 GitHub Stats
