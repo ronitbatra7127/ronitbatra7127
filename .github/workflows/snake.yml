@@ -19,7 +19,7 @@ jobs:
           github_user_name: ronitbatra7127
           outputs: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/github-pages-deploy-action@v4
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
