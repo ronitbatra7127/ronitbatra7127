@@ -1,11 +1,12 @@
-<div align="center"> 
- 
- <img src="https://capsule-render.vercel.app/api type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ronit%20Batra&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=58&descSize=18" alt="header" /> 
- 
- <a href="https://github.com/ronitbatra7127"> 
- 
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ronit+%F0%9F%91%8B" /> 
- </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ronit%20Batra&fontSize=60&fontAlignY=50&animation=fadeIn" alt="header" />
+
+<a href="https://github.com/ronitbatra7127">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ronit+Batra+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
+
+</div>
  
  </div>>
 
