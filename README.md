@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ronit%20Batra&fontSize=60&fontAlignY=45&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ronit%20Batra&fontSize=60&fontAlignY=50&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/ronitbatra7127">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ronit+Batra;Ronit+Batra;Ronit+Batra" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ronit+%F0%9F%91%8B;Data+Science+learner;Turning+raw+data+into+useful+insights;Python+%7C+SQL+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,48 +12,9 @@
 
 ### 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <th align="center">Icon</th>
-    <th align="left">Technology</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /></td>
-    <td><b>Python</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /></td>
-    <td><b>C</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></td>
-    <td><b>C++</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /></td>
-    <td><b>MySQL</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas" /></td>
-    <td><b>Pandas</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-learn" /></td>
-    <td><b>Scikit-learn</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=jupyter" height="40" alt="Jupyter" /></td>
-    <td><b>Jupyter Notebook</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></td>
-    <td><b>Git</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></td>
-    <td><b>GitHub</b></td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,pandas,sklearn,jupyter,git,github" alt="Tech stack" />
+</p>
 
 ### 🚀 Featured Projects
 
