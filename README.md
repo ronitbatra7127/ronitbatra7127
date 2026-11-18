@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ronit%20Batra&fontSize=60&fontAlignY=50&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ronit%20Batra&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=58&descSize=18" alt="header" />
+
+<a href="https://github.com/ronitbatra7127">
+ 
+</a>
 
 </div>
 
