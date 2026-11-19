@@ -20,7 +20,7 @@
 
 👋 Hey! I'm **Ronit Batra**, a passionate tech enthusiast currently pursuing my **2nd year at UPES, Dehradun**, specializing in **Data Science**.
 
-- 🎓 Currently pursuing B.Tech at UPES, Dehradun
+- 🎓 Currently pursuing my degree at UPES, Dehradun
 - 📊 Exploring the fascinating world of Data Science
 - 💻 Learning and building with C and Python
 - 🧠 Strengthening my problem-solving and DSA skills
@@ -54,27 +54,27 @@
 
 ### 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,r" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Data Science & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch" />
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 🎨 Visualization & Design
+### 🎨 Design & Other Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=matplotlib,canva" />
-</p>
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -126,11 +126,9 @@
 
 <div align="center">
 
-### 💭 Developer Mindset
+### 🚀 Thanks for Visiting My Profile!
 
-*"Great things are done by a series of small things brought together."*
-
-**Keep Learning. Keep Building. Keep Growing.** 🚀
+**Keep Learning | Keep Building | Keep Growing**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2575FC,100:6A11CB&height=120&section=footer" width="100%"/>
 
