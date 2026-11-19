@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,pandas,sklearn,jupyter,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,pandas,numpy,matplotlib,sklearn,seaborn,jupyter,github" alt="Tech stack" />
 </p>
 
 ### 🚀 Featured Projects
