@@ -33,12 +33,6 @@ A ball-by-ball dataset of IPL matches from 2008 to 2026, built from Cricsheet da
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitbatra7127&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ronitbatra7127/ronitbatra7127/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ronit-Batra)
