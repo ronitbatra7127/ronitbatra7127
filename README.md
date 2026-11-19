@@ -1,41 +1,137 @@
+ 
+<!-- 🌟 ANIMATED HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ronit%20Batra&fontSize=60&fontAlignY=50&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00D4FF&height=220&section=header&text=RONIT%20BATRA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=17" width="100%"/>
 
-<a href="https://github.com/ronitbatra7127">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ronit+Batra+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ronit+Batra+%F0%9F%91%8B;Data+Science+Student+%F0%9F%93%8A;Exploring+the+World+of+AI+%26+ML+%F0%9F%A4%96;Learning+DSA+One+Problem+at+a+Time+%F0%9F%92%BB;Building+My+Future+Through+Code+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=ronitbatra7127&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 
 </div>
- 
- </div>>
 
 ---
 
-### 🛠️ Tech Stack
+## 💫 About Me
+
+<img align="right" alt="Coding GIF" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+👋 Hey! I'm **Ronit Batra**, a passionate tech enthusiast currently pursuing my **2nd year at UPES, Dehradun**, specializing in **Data Science**.
+
+- 🎓 Currently pursuing B.Tech at UPES, Dehradun
+- 📊 Exploring the fascinating world of Data Science
+- 💻 Learning and building with C and Python
+- 🧠 Strengthening my problem-solving and DSA skills
+- 🤖 Interested in AI, Machine Learning & Data Analytics
+- 🚀 Always curious to learn something new
+- 🎯 Turning ideas into code, one project at a time!
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/ronitbatra_071207">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/Ronit-Batra">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:batra.ronit0712@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,pandas,numpy,matplotlib,sklearn,seaborn,jupyter,github" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=c,python,r" />
 </p>
 
-### 🚀 Featured Projects
-
-**[Super Market analysis](https://github.com/ronitbatra7127/Inventory-Management)**
-Machine learning project that predicts the upcoming orders in the next 10 days along with the inventory requirement of the store and also a store and customer profile bifurcation for ordering by customers and inventory management for the store
-
-**[IPL Ball-by-Ball Dataset](https://github.com/ronitbatra7127/IPL-prediction)**
-A ball-by-ball dataset of IPL matches from 2008 to 2026, built from Cricsheet data with a Python script.
-
-### 📊 GitHub Stats
+### 🗄️ Databases
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ronitbatra7127&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitbatra7127&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 📫 Connect with Me
+### 📊 Data Science & Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ronit-Batra)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzronit7127@gmail.com)
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+### 🎨 Visualization & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=matplotlib,canva" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ronitbatra7127&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=ronitbatra7127&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitbatra7127&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ronitbatra7127&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitbatra7127&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ronitbatra7127/ronitbatra7127/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Mindset
+
+*"Great things are done by a series of small things brought together."*
+
+**Keep Learning. Keep Building. Keep Growing.** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2575FC,100:6A11CB&height=120&section=footer" width="100%"/>
+
+</div>
